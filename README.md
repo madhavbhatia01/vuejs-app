@@ -1,7 +1,7 @@
 ## vuejs-app
 
 This project is made using Vuejs. It is a signup, login and logout website. Users data is hosted through the package json-server.
-Technologies used are: Node, Vuejs, Axiom, json-server, tailwind.
+Technologies used are: Node, Vuejs,Vue router, Axiom, json-server, tailwind.
 
 Sign-Up page<br />
 <img width="300" alt="Screenshot 2021-06-16 at 4 19 56 PM" src="https://user-images.githubusercontent.com/71606419/122207609-f1753d80-cebf-11eb-9d56-50d310270866.png"><br /><br />
