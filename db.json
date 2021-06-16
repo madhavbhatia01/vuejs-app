@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "bc.com",
+      "password": "bcc",
+      "name": "BC",
+      "id": 1
+    },
+    {
+      "email": "champa@g.com",
+      "password": "chameli",
+      "name": "jhgfds",
+      "id": 2
+    },
+    {
+      "email": "sfdagsdhnf",
+      "password": "aesrtdyuiy",
+      "name": "knsaf",
+      "id": 3
+    },
+    {
+      "email": "weqrwetry",
+      "password": "ewtreyturytu",
+      "name": "sadfg",
+      "id": 4
+    },
+    {
+      "email": "efsrtyu",
+      "password": "dsfdfgjhkjl",
+      "name": "wwertryu",
+      "id": 5
+    },
+    {
+      "email": "johntrump@gmail.com",
+      "password": "asdfghjkl",
+      "name": "John Trump",
+      "id": 6
+    }
+  ]
+}
